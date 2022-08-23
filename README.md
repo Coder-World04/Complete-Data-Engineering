@@ -1,4 +1,4 @@
-# Complete-Data-Engineering with Projects Series 
+# Complete Data Engineering with Projects Series 
 
 This repository contains everything you need to become proficient in Data Engineering
 
