@@ -32,7 +32,7 @@ Pre-requisite : [Day 1 — Day 60 : Quick Recap of 60 days of Data Science and M
 
 [Advanced Python with Project](https://medium.com/coders-mojo/day-3-of-30-days-of-data-engineering-series-77d59c404ea0?sk=c8a6470cabb9b9907b18e145c4a97f69)
 
-Techniques and Optimization
+Techniques  and Optimization
 
 ----------
 
