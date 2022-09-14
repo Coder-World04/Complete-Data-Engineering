@@ -71,7 +71,7 @@ Unstructured Data
 
 Advanced ETL
 
-Map-Reduce
+Map - Reduce
 
 Data Warehouses
 
