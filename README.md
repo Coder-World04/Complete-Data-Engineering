@@ -37,7 +37,7 @@ Pre-requisite : [Day 1 — Day 60 : Quick Recap of 60 days of Data Science and M
 ----------
 
 
-3. Scripting and Automation
+3. Scripting & Automation
 
 Shell Scripting
 
