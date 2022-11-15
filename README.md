@@ -62,7 +62,7 @@ Advanced SQL
 
 [Big Query](https://medium.datadriveninvestor.com/introduction-to-bigquery-on-google-cloud-platform-part-2-e6e763ad47d9?sk=1907016da3dc3ad01d0ddc2e25fa6dee)
 
-----------
+-----------
 
 
 5. NoSQL Data bases and Map Reduce
