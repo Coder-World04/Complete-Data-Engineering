@@ -36,131 +36,363 @@ Pre-requisite : [Day 1 — Day 60 : Quick Recap of 60 days of Data Science and M
 
 -----------
 
+3. SQL Basics
 
-3. Scripting & Automation
+[Structured Query Language](https://medium.com/coders-mojo/day-5-of-30-days-of-data-engineering-series-c20129ff7019?sk=2d1328885b529c2e7fa3144c4cb7f8d5)
 
-Shell Scripting
+[Query Structure](https://medium.com/coders-mojo/day-5-of-30-days-of-data-engineering-series-c20129ff7019?sk=2d1328885b529c2e7fa3144c4cb7f8d5)
 
-CRON
+[Conditions](https://medium.com/coders-mojo/day-5-of-30-days-of-data-engineering-series-c20129ff7019?sk=2d1328885b529c2e7fa3144c4cb7f8d5)
 
-ETL
+[Joins](https://medium.com/coders-mojo/day-5-of-30-days-of-data-engineering-series-c20129ff7019?sk=2d1328885b529c2e7fa3144c4cb7f8d5)
 
-[Git](https://medium.datadriveninvestor.com/the-complete-developers-guide-to-git-6a23125996e1?sk=e30479bbe713930ea93018e1a46d9185)
-
-----------
-
-
-4. Relational Databases and SQL
-
-RDBMS
-
-Data Modeling
-
-Basic SQL
-
-Advanced SQL
-
-[Big Query](https://medium.datadriveninvestor.com/introduction-to-bigquery-on-google-cloud-platform-part-2-e6e763ad47d9?sk=1907016da3dc3ad01d0ddc2e25fa6dee)
+[Stored Procedures](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
 
 -----------
 
 
-5. NoSQL Data bases and Map Reduce
+4. Aggregations
 
-Unstructured Data
+[Wild cards](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
 
-Advanced ETL
+[Grouping Data](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
 
-Map - Reduce
+[Aggregation Functions](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
 
-Data Warehouses
+[Filtering](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
 
-Data API
+[Sequences](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
 
-----------
+[Group By, Order By](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
 
+[Having Clause](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
 
-6.Data Analysis
+[Write Sub queries](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
 
-Pandas
+[Grouping Sets](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
 
-Numpy
-
-Web Scraping
-
-Data Visualization
+[Analytical Functions](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
 
 -----------
 
+5. Window Functions
 
-7. Data Processing Techniques
+[Row Numbering](https://medium.com/coders-mojo/day-8-of-30-days-of-data-engineering-series-with-projects-de46be64dafc?sk=637370c20d50f6085cc257b46f6f4fa8)
 
-Batch Processing : Apache Spark
+[Percentile](https://medium.com/coders-mojo/day-8-of-30-days-of-data-engineering-series-with-projects-de46be64dafc?sk=637370c20d50f6085cc257b46f6f4fa8)
 
-Stream Processing - Spart Streaming
-
-Build Data Pipelines
-
-Target Databases
-
-Machine learning Algorithms
-
-----------
-
-
-8. Big Data
-
-Big data basics
-
-HDFS in detail
-
-Hadoop Yarn
-
-Sqoop Hadoop
-
-Hadoop Yarn
-
-Hive
-
-Pig
-
-Hbase
-
-----------
-
-
-9. WorkFlows
-
-Introduction to Airflow
-
-Airflow hands on project
-
-----------
-
-
-10. Infrastructure
-
-Docker
-
-Kubernetes
-
-Business Intelligence
-
-----------
-
-
-11. Cloud Computing
-
-AWS
-
-Google Cloud Platform
+[Advanced windowing techniques](https://medium.com/coders-mojo/day-8-of-30-days-of-data-engineering-series-with-projects-de46be64dafc?sk=637370c20d50f6085cc257b46f6f4fa8)
 
 -----------
 
+6. BigQuery
 
-12. Research Papers - Data Engineering
+[BigQuery Basics](https://medium.com/coders-mojo/day-7-of-30-days-of-data-engineering-series-with-projects-116a4479c81b?sk=432cd30e2a8ce7c1ab6a720694f8211e)
 
-Some amazing research papers- data engineering that I have read over the years to help you boot up to the industry standards and what's next in this field.
+[SELECT, FROM, WHERE and Date and Extract in BigQuery](https://medium.com/coders-mojo/day-7-of-30-days-of-data-engineering-series-with-projects-116a4479c81b?sk=432cd30e2a8ce7c1ab6a720694f8211e)
+
+[Common Expression Table](https://medium.com/coders-mojo/day-7-of-30-days-of-data-engineering-series-with-projects-116a4479c81b?sk=432cd30e2a8ce7c1ab6a720694f8211e)
+
+[UNNEST Clause](https://medium.com/coders-mojo/day-7-of-30-days-of-data-engineering-series-with-projects-116a4479c81b?sk=432cd30e2a8ce7c1ab6a720694f8211e)
+
+[SQL vs NoSQL Database](https://medium.com/coders-mojo/day-7-of-30-days-of-data-engineering-series-with-projects-116a4479c81b?sk=432cd30e2a8ce7c1ab6a720694f8211e)
+
+-----------
+
+7. Advanced Functions
+
+[Triggers](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
+
+[Pivot](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
+
+[Cursors](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
+
+[Views](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
+
+[Indexes](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
+
+[Auto Increment](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
+
+-----------
+
+8. Performance Tuning SQL Queries
+
+[Query Optimizations in SQL](https://medium.com/coders-mojo/day-9-of-30-days-of-data-engineering-series-with-projects-418386440bf?sk=a7efea213c65d9365b784d0fafedb477)
+
+-----------
+
+9. MySQL, PostgreSQL and MongoDB
+
+[Introduction to MySQL](https://medium.com/coders-mojo/day-10-of-30-days-of-data-engineering-series-with-projects-d6534af15cdd?sk=d4e0e07c2fbf0c57d1ec6d3ed96b8f7e)
+
+[Introduction to PostgreSQL](https://medium.com/coders-mojo/day-10-of-30-days-of-data-engineering-series-with-projects-d6534af15cdd?sk=d4e0e07c2fbf0c57d1ec6d3ed96b8f7e)
+
+[Introduction to Mongo DB](https://medium.com/coders-mojo/day-10-of-30-days-of-data-engineering-series-with-projects-d6534af15cdd?sk=d4e0e07c2fbf0c57d1ec6d3ed96b8f7e)
+
+[Comparison between MySQL and PostgreSQL and Mongo DB](https://medium.com/coders-mojo/day-10-of-30-days-of-data-engineering-series-with-projects-d6534af15cdd?sk=d4e0e07c2fbf0c57d1ec6d3ed96b8f7e)
+
+[Introduction to SQL and NoSQL Databases](https://medium.com/coders-mojo/day-10-of-30-days-of-data-engineering-series-with-projects-d6534af15cdd?sk=d4e0e07c2fbf0c57d1ec6d3ed96b8f7e)
+
+[MySQL in Depth](https://medium.com/coders-mojo/day-10-of-30-days-of-data-engineering-series-with-projects-d6534af15cdd?sk=d4e0e07c2fbf0c57d1ec6d3ed96b8f7e)
+
+-----------
+
+10. Scripting and Automation
+
+[Shell Scripting](https://medium.com/coders-mojo/day-11-of-30-days-of-data-engineering-series-with-projects-3a3e8881ce34?sk=2da1d170968a55b21b6f1541e01c7244)
+
+[ETL ( Extract, Tranform and Load) basics](https://medium.com/coders-mojo/day-20-of-30-days-of-data-engineering-series-with-projects-d8b4d08fac38?sk=af37983782660e0f58fb15e27f9598f6)
+
+[Why ETL is important?](https://medium.com/coders-mojo/day-20-of-30-days-of-data-engineering-series-with-projects-d8b4d08fac38?sk=af37983782660e0f58fb15e27f9598f6)
+
+[How ETL works](https://medium.com/coders-mojo/day-20-of-30-days-of-data-engineering-series-with-projects-d8b4d08fac38?sk=af37983782660e0f58fb15e27f9598f6)
+
+[ETL Tools](https://medium.com/coders-mojo/day-20-of-30-days-of-data-engineering-series-with-projects-d8b4d08fac38?sk=af37983782660e0f58fb15e27f9598f6)
+
+-----------
+
+11. Relational Databases and SQL
+
+[Basic SQL](https://medium.com/coders-mojo/day-5-of-30-days-of-data-engineering-series-c20129ff7019?sk=2d1328885b529c2e7fa3144c4cb7f8d5)
+
+[Advanced SQL](https://medium.com/coders-mojo/day-5-of-30-days-of-data-engineering-series-c20129ff7019?sk=2d1328885b529c2e7fa3144c4cb7f8d5)
+
+-----------
+
+12. NoSQL Data bases and Map Reduce
+
+[Data Warehouses](https://medium.com/coders-mojo/day-12-of-30-days-of-data-engineering-series-with-projects-a4f0654080aa?sk=cc1e6e3094cf5accc41bf6e7aa8534f6)
+
+[Data Lakes](https://medium.com/coders-mojo/day-12-of-30-days-of-data-engineering-series-with-projects-a4f0654080aa?sk=cc1e6e3094cf5accc41bf6e7aa8534f6)
+
+[Structured Data](https://medium.com/coders-mojo/day-21-of-30-days-of-data-engineering-series-with-projects-b93ac7b1386c?sk=51bed942fd1afc69b31dcf82d1c30b9d)
+
+[Semi Structured Data](https://medium.com/coders-mojo/day-21-of-30-days-of-data-engineering-series-with-projects-b93ac7b1386c?sk=51bed942fd1afc69b31dcf82d1c30b9d)
+
+[Unstructured Data](https://medium.com/coders-mojo/day-21-of-30-days-of-data-engineering-series-with-projects-b93ac7b1386c?sk=51bed942fd1afc69b31dcf82d1c30b9d)
+
+[Data Mart](https://medium.com/coders-mojo/day-21-of-30-days-of-data-engineering-series-with-projects-b93ac7b1386c?sk=51bed942fd1afc69b31dcf82d1c30b9d)
+
+[Map-Reduce](https://medium.com/coders-mojo/day-12-of-30-days-of-data-engineering-series-with-projects-a4f0654080aa?sk=cc1e6e3094cf5accc41bf6e7aa8534f6)
+
+-----------
+
+13.Data Analysis
+
+[Pandas](https://medium.com/coders-mojo/day-13-of-30-days-of-data-engineering-series-with-projects-24d70bdf0baa?sk=30a5b77b65234aefe09d2fa6e71a7d1a)
+
+[Numpy](https://medium.com/coders-mojo/day-14-of-30-days-of-data-engineering-series-with-projects-fb72a73cd394?sk=8a5ebb3e9ef9f1d7f848c41bb792c9c8)
+
+[Advanced Pandas Techniques](https://medium.com/coders-mojo/day-15-of-30-days-of-data-engineering-series-with-projects-cd339b6445fe?sk=9b6e2443144ae66b9d2087a783f751c6)
+
+[Data Pre-processing](https://medium.com/coders-mojo/day-16-of-30-days-of-data-engineering-series-with-projects-3e528488aae2?sk=1ee79211d1455ef46cd73fe1c62344cb)
+
+[Handling missing values](https://medium.com/coders-mojo/day-16-of-30-days-of-data-engineering-series-with-projects-3e528488aae2?sk=1ee79211d1455ef46cd73fe1c62344cb)
+
+[Data Cleaning](https://medium.com/coders-mojo/day-16-of-30-days-of-data-engineering-series-with-projects-3e528488aae2?sk=1ee79211d1455ef46cd73fe1c62344cb)
+
+[Mean/mode/median Imputation](https://medium.com/coders-mojo/day-16-of-30-days-of-data-engineering-series-with-projects-3e528488aae2?sk=1ee79211d1455ef46cd73fe1c62344cb)
+
+[Hot Deck Imputation](https://medium.com/coders-mojo/day-16-of-30-days-of-data-engineering-series-with-projects-3e528488aae2?sk=1ee79211d1455ef46cd73fe1c62344cb)
+
+[Rescale Data](https://medium.com/coders-mojo/day-16-of-30-days-of-data-engineering-series-with-projects-3e528488aae2?sk=1ee79211d1455ef46cd73fe1c62344cb)
+
+[Binarize Data](https://medium.com/coders-mojo/day-16-of-30-days-of-data-engineering-series-with-projects-3e528488aae2?sk=1ee79211d1455ef46cd73fe1c62344cb)
+
+[Regression Imputation](https://medium.com/coders-mojo/day-16-of-30-days-of-data-engineering-series-with-projects-3e528488aae2?sk=1ee79211d1455ef46cd73fe1c62344cb)
+
+[Stochastic regression imputation](https://medium.com/coders-mojo/day-16-of-30-days-of-data-engineering-series-with-projects-3e528488aae2?sk=1ee79211d1455ef46cd73fe1c62344cb)
+
+[Feature Scaling](https://medium.com/coders-mojo/day-16-of-30-days-of-data-engineering-series-with-projects-3e528488aae2?sk=1ee79211d1455ef46cd73fe1c62344cb)
+
+[Data Augmentation](https://medium.com/coders-mojo/day-17-of-30-days-of-data-engineering-series-with-projects-8271d43171f2?sk=9c20abe78f0aae3fd768a0ee81684b08)
+
+[Read and Process Large Datasets](https://medium.com/coders-mojo/day-17-of-30-days-of-data-engineering-series-with-projects-8271d43171f2?sk=9c20abe78f0aae3fd768a0ee81684b08)
+
+[Data Visualization basics](https://naina0412.medium.com/day-18-of-30-days-of-data-engineering-series-with-projects-eda8e857aa3b?sk=39883c3111ce1f8a88b3b1bdc567d704)
+
+[Data Visualization Projects](https://naina0412.medium.com/day-18-of-30-days-of-data-engineering-series-with-projects-eda8e857aa3b?sk=39883c3111ce1f8a88b3b1bdc567d704)
+
+[Data Visualization using Plotly and Bokeh](https://naina0412.medium.com/day-18-of-30-days-of-data-engineering-series-with-projects-eda8e857aa3b?sk=39883c3111ce1f8a88b3b1bdc567d704)
+
+[Data Profiling](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
+
+[Summary Functions](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
+
+[Indexing](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
+
+[Grouping](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
+
+[Linear Regression](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
+
+[Multi Linear Regression](https://medium.com/coders-mojo/day-28-of-30-days-of-data-analytics-with-projects-series-regression-part-1-e525680782d9?sk=57d3774ca59e7eb7971a567b4005cf78)
+
+[Polynomial Regression](https://medium.com/coders-mojo/day-28-of-30-days-of-data-analytics-with-projects-series-regression-part-1-e525680782d9?sk=57d3774ca59e7eb7971a567b4005cf78)
+
+[Regression](https://medium.com/coders-mojo/day-29-of-30-days-of-data-analytics-with-projects-series-regression-part-2-48783d03da21?sk=97f4cdd6f04de3ab584773e435cca757)
+
+[Support Vector Regression](https://medium.com/coders-mojo/day-29-of-30-days-of-data-analytics-with-projects-series-regression-part-2-48783d03da21?sk=97f4cdd6f04de3ab584773e435cca757)
+
+[Decision Tree Regression](https://medium.com/coders-mojo/day-29-of-30-days-of-data-analytics-with-projects-series-regression-part-2-48783d03da21?sk=97f4cdd6f04de3ab584773e435cca757)
+
+[Random Forest Regression](https://medium.com/coders-mojo/day-29-of-30-days-of-data-analytics-with-projects-series-regression-part-2-48783d03da21?sk=97f4cdd6f04de3ab584773e435cca757)
+
+[Feature Engineering](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
+
+[GroupBy Features](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
+
+[Categorical and Numerical Features](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
+
+[Missing Value Analysis](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
+
+[Fill the missing Values](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
+
+[Unique Value Analysis](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
+
+[Univariate Analysis](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
+
+[Bivariate Analysis](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
+
+[Multivariate Analysis](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
+
+[Correlation Analysis](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
+
+[Spearman’s ρ](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
+
+[Pearson’s r](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
+
+[Kendall’s τ](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
+
+[Cramér’s V (φc)](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
+
+[Phik (φk)](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
+
+-----------
+
+14. Data Processing Techniques
+
+[Batch Processing](https://medium.com/coders-mojo/day-23-of-30-days-of-data-engineering-series-with-projects-cc0f8f8be3e2?sk=e71f06903a8ce01ca75b57b4ed7a5d38)
+
+[Stream Processing](https://medium.com/coders-mojo/day-23-of-30-days-of-data-engineering-series-with-projects-cc0f8f8be3e2?sk=e71f06903a8ce01ca75b57b4ed7a5d38)
+
+[Apache Spark](https://medium.com/coders-mojo/day-23-of-30-days-of-data-engineering-series-with-projects-cc0f8f8be3e2?sk=e71f06903a8ce01ca75b57b4ed7a5d38)
+
+[Apache Spark Commands](https://medium.com/coders-mojo/day-23-of-30-days-of-data-engineering-series-with-projects-cc0f8f8be3e2?sk=e71f06903a8ce01ca75b57b4ed7a5d38)
+
+[Apache Kafka](https://medium.com/coders-mojo/day-23-of-30-days-of-data-engineering-series-with-projects-cc0f8f8be3e2?sk=e71f06903a8ce01ca75b57b4ed7a5d38)
+
+[How Apache Kafka works](https://medium.com/coders-mojo/day-23-of-30-days-of-data-engineering-series-with-projects-cc0f8f8be3e2?sk=e71f06903a8ce01ca75b57b4ed7a5d38)
+
+-----------
+
+15. Big Data
+
+[Big Data](https://medium.com/coders-mojo/day-22-of-30-days-of-data-engineering-series-with-projects-6af0daa939a3?sk=6fdf51209a4dc02b91f2908ea7ed34ad)
+
+[Types of Big Data](https://medium.com/coders-mojo/day-22-of-30-days-of-data-engineering-series-with-projects-6af0daa939a3?sk=6fdf51209a4dc02b91f2908ea7ed34ad)
+
+[Big data tools](https://medium.com/coders-mojo/day-22-of-30-days-of-data-engineering-series-with-projects-6af0daa939a3?sk=6fdf51209a4dc02b91f2908ea7ed34ad)
+
+[SQL and NoSQL Databases](https://medium.com/coders-mojo/day-22-of-30-days-of-data-engineering-series-with-projects-6af0daa939a3?sk=6fdf51209a4dc02b91f2908ea7ed34ad)
+
+[Hadoop](https://medium.com/coders-mojo/day-22-of-30-days-of-data-engineering-series-with-projects-6af0daa939a3?sk=6fdf51209a4dc02b91f2908ea7ed34ad)
+
+[Hadoop HDFS](https://medium.com/coders-mojo/day-22-of-30-days-of-data-engineering-series-with-projects-6af0daa939a3?sk=6fdf51209a4dc02b91f2908ea7ed34ad)
+
+[Hadoop Yarn](https://medium.com/coders-mojo/day-22-of-30-days-of-data-engineering-series-with-projects-6af0daa939a3?sk=6fdf51209a4dc02b91f2908ea7ed34ad)
+
+[Hive](https://medium.com/coders-mojo/day-24-of-30-days-of-data-engineering-series-with-projects-8761692e7a51?sk=306f0084ded06f638b1478eeb46b8cad)
+
+[Zookeeper](https://medium.com/coders-mojo/day-24-of-30-days-of-data-engineering-series-with-projects-8761692e7a51?sk=306f0084ded06f638b1478eeb46b8cad)
+
+[Pig](https://medium.com/coders-mojo/day-24-of-30-days-of-data-engineering-series-with-projects-8761692e7a51?sk=306f0084ded06f638b1478eeb46b8cad)
+
+[Cassandra](https://medium.com/coders-mojo/day-24-of-30-days-of-data-engineering-series-with-projects-8761692e7a51?sk=306f0084ded06f638b1478eeb46b8cad)
+
+[Sqoop](https://medium.com/coders-mojo/day-24-of-30-days-of-data-engineering-series-with-projects-8761692e7a51?sk=306f0084ded06f638b1478eeb46b8cad)
+
+-----------
+
+16. Data Pipelines and WorkFlows
+
+[Data Pipelines](https://medium.com/coders-mojo/day-26-of-30-days-of-data-engineering-series-with-projects-8798d9e6213d?sk=1ca8a3ee44e8cc58cfca3dc87bd8c17d)
+
+[Transformation](https://medium.com/coders-mojo/day-26-of-30-days-of-data-engineering-series-with-projects-8798d9e6213d?sk=1ca8a3ee44e8cc58cfca3dc87bd8c17d)
+
+[Processing](https://medium.com/coders-mojo/day-26-of-30-days-of-data-engineering-series-with-projects-8798d9e6213d?sk=1ca8a3ee44e8cc58cfca3dc87bd8c17d)
+
+[Workflow](https://medium.com/coders-mojo/day-26-of-30-days-of-data-engineering-series-with-projects-8798d9e6213d?sk=1ca8a3ee44e8cc58cfca3dc87bd8c17d)
+
+[Monitoring](https://medium.com/coders-mojo/day-26-of-30-days-of-data-engineering-series-with-projects-8798d9e6213d?sk=1ca8a3ee44e8cc58cfca3dc87bd8c17d)
+
+[Airflow](https://medium.com/coders-mojo/day-26-of-30-days-of-data-engineering-series-with-projects-8798d9e6213d?sk=1ca8a3ee44e8cc58cfca3dc87bd8c17d)
+
+[DAG](https://medium.com/coders-mojo/day-26-of-30-days-of-data-engineering-series-with-projects-8798d9e6213d?sk=1ca8a3ee44e8cc58cfca3dc87bd8c17d)
+
+-----------
+
+17. Infrastructure
+
+[Docker](https://medium.com/coders-mojo/day-25-of-30-days-of-data-engineering-series-with-projects-437bc40598fe?sk=c7b7a4ad4318571764a26c8e0a7542c0)
+
+[Docker vs Virtual Machines](https://medium.com/coders-mojo/day-25-of-30-days-of-data-engineering-series-with-projects-437bc40598fe?sk=c7b7a4ad4318571764a26c8e0a7542c0)
+
+[Most important Docker commands](https://medium.com/coders-mojo/day-25-of-30-days-of-data-engineering-series-with-projects-437bc40598fe?sk=c7b7a4ad4318571764a26c8e0a7542c0)
+
+[Kubernetes](https://medium.com/coders-mojo/day-25-of-30-days-of-data-engineering-series-with-projects-437bc40598fe?sk=c7b7a4ad4318571764a26c8e0a7542c0)
+
+[Snowflake](https://medium.com/coders-mojo/day-25-of-30-days-of-data-engineering-series-with-projects-437bc40598fe?sk=c7b7a4ad4318571764a26c8e0a7542c0)
+
+-----------
+
+18. Power BI
+
+[Power BI](https://medium.com/coders-mojo/day-27-of-30-days-of-data-engineering-series-with-projects-b132bb7fdcc3?sk=a4613412d75226d22084a56fb5184f57)
+
+[Which chart to use and When?](https://medium.com/coders-mojo/day-27-of-30-days-of-data-engineering-series-with-projects-b132bb7fdcc3?sk=a4613412d75226d22084a56fb5184f57)
+
+[Power BI — Data Analysis Expressions](https://medium.com/coders-mojo/day-27-of-30-days-of-data-engineering-series-with-projects-b132bb7fdcc3?sk=a4613412d75226d22084a56fb5184f57)
+
+[Joins](https://medium.com/coders-mojo/day-27-of-30-days-of-data-engineering-series-with-projects-b132bb7fdcc3?sk=a4613412d75226d22084a56fb5184f57)
+
+[Data Profiling](https://medium.com/coders-mojo/day-27-of-30-days-of-data-engineering-series-with-projects-b132bb7fdcc3?sk=a4613412d75226d22084a56fb5184f57)
+
+-----------
+
+19. Cloud Data Engineering
+
+[Data Engineering on cloud](https://medium.com/coders-mojo/day-29-of-30-days-of-data-engineering-series-with-projects-cd7882ec1885?sk=661b3a4170e19079df5a264bba835815)
+
+[AWS](https://medium.com/coders-mojo/day-29-of-30-days-of-data-engineering-series-with-projects-cd7882ec1885?sk=661b3a4170e19079df5a264bba835815)
+
+[AWS Services](https://medium.com/coders-mojo/day-29-of-30-days-of-data-engineering-series-with-projects-cd7882ec1885?sk=661b3a4170e19079df5a264bba835815)
+
+[Google Cloud Platform](https://medium.com/coders-mojo/day-29-of-30-days-of-data-engineering-series-with-projects-cd7882ec1885?sk=661b3a4170e19079df5a264bba835815)
+
+[Google Cloud Platform services](https://medium.com/coders-mojo/day-29-of-30-days-of-data-engineering-series-with-projects-cd7882ec1885?sk=661b3a4170e19079df5a264bba835815)
+
+-----------
+
+20. Machine Learning Algorithms
+
+[Linear Regression](https://medium.com/coders-mojo/day-30-of-30-days-of-data-engineering-series-with-projects-f73681fa0e2?sk=9065c4c01a7a03ba075a3489a29a019a)
+
+[Logistic Regression](https://medium.com/coders-mojo/day-30-of-30-days-of-data-engineering-series-with-projects-f73681fa0e2?sk=9065c4c01a7a03ba075a3489a29a019a)
+
+[Decision Trees](https://medium.com/coders-mojo/day-30-of-30-days-of-data-engineering-series-with-projects-f73681fa0e2?sk=9065c4c01a7a03ba075a3489a29a019a)
+
+[Random Forest](https://medium.com/coders-mojo/day-30-of-30-days-of-data-engineering-series-with-projects-f73681fa0e2?sk=9065c4c01a7a03ba075a3489a29a019a)
+
+[Support Vector Machines](https://medium.com/coders-mojo/day-30-of-30-days-of-data-engineering-series-with-projects-f73681fa0e2?sk=9065c4c01a7a03ba075a3489a29a019a)
+
+[K Nearest Neighbors](https://medium.com/coders-mojo/day-30-of-30-days-of-data-engineering-series-with-projects-f73681fa0e2?sk=9065c4c01a7a03ba075a3489a29a019a)
+
+[K means Clustering](https://medium.com/coders-mojo/day-30-of-30-days-of-data-engineering-series-with-projects-f73681fa0e2?sk=9065c4c01a7a03ba075a3489a29a019a)
+
+[Hierarchical Clustering](https://medium.com/coders-mojo/day-30-of-30-days-of-data-engineering-series-with-projects-f73681fa0e2?sk=9065c4c01a7a03ba075a3489a29a019a)
+
+[Neural Networks](https://medium.com/coders-mojo/day-30-of-30-days-of-data-engineering-series-with-projects-f73681fa0e2?sk=9065c4c01a7a03ba075a3489a29a019a)
+
 
 ----------
 
