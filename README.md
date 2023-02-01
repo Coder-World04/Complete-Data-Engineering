@@ -18,7 +18,7 @@ Pre-requisite : [Day 1 — Day 60 : Quick Recap of 60 days of Data Science and M
 
 [Why Data Engineering](https://medium.com/coders-mojo/day-1-of-30-days-of-data-engineering-894822fcb128?sk=76ba558bfe2d9f85cbe741e505295531)
 
-[Data Engineers - ML Engineers - Data Scientists](https://medium.com/coders-mojo/day-1-of-30-days-of-data-engineering-894822fcb128?sk=76ba558bfe2d9f85cbe741e505295531)
+[Data Engineers - ML Engineers -- Data Scientists](https://medium.com/coders-mojo/day-1-of-30-days-of-data-engineering-894822fcb128?sk=76ba558bfe2d9f85cbe741e505295531)
 
 [Purpose and Scope](https://medium.com/coders-mojo/day-1-of-30-days-of-data-engineering-894822fcb128?sk=76ba558bfe2d9f85cbe741e505295531)
 
