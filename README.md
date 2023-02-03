@@ -113,13 +113,13 @@ Pre-requisite : [Day 1 — Day 60 : Quick Recap of 60 days of Data Science and M
 
 [Auto Increment](https://medium.com/coders-mojo/day-6-of-30-days-of-data-engineering-series-with-projects-9d491908d822?sk=1f9e5d31cfb3ee5f38405070e91b985f)
 
------------
+------------
 
-8. Performance Tuning SQL Queries
+8. Performance Tuning SQL Queries 
 
 [Query Optimizations in SQL](https://medium.com/coders-mojo/day-9-of-30-days-of-data-engineering-series-with-projects-418386440bf?sk=a7efea213c65d9365b784d0fafedb477)
 
------------
+------------
 
 9. MySQL, PostgreSQL and MongoDB
 
