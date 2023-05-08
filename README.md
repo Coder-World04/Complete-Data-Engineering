@@ -119,7 +119,7 @@ Pre-requisite : [Day 1 — Day 60 : Quick Recap of 60 days of Data Science and M
 
 [Query Optimizations in SQL](https://medium.com/coders-mojo/day-9-of-30-days-of-data-engineering-series-with-projects-418386440bf?sk=a7efea213c65d9365b784d0fafedb477)
 
-------------
+-------------
 
 9. MySQL, PostgreSQL and MongoDB
 
