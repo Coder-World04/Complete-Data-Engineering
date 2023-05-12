@@ -34,7 +34,7 @@ Pre-requisite : [Day 1 — Day 60 : Quick Recap of 60 days of Data Science and M
 
 [Techniques to write efficient and optimized code](https://medium.com/coders-mojo/day-4-of-30-days-of-data-engineering-series-22b88d116871?sk=01920d343535a05fc119c3a41f2061c0)
 
-------------
+-------------
 
 3. SQL Basics
 
