@@ -1,6 +1,6 @@
 # Complete Data Engineering with Projects Series 
 
-This repository contains everything you need to become proficient in Data Engineering
+This repository contains everything you need to become proficient in Data Engineering.
 
 ![0_SwVJoSmjpR4_aRuA](https://user-images.githubusercontent.com/104568275/186138504-a4d30c17-d25d-47a2-ae97-5069162b2f3c.png)
 
