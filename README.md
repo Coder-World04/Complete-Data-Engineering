@@ -6,7 +6,7 @@ This repository contains everything you need to become proficient in Data Engine
 
 Pic credits: infra
 
----------------
+----------------
 
 Pre-requisite : [Day 1 — Day 60 : Quick Recap of 60 days of Data Science and ML](https://medium.com/coders-mojo/day-1-day-60-quick-recap-of-60-days-of-data-science-and-ml-6fc021643d1?sk=4e75e043b7630a9f963562ebac94e129)
 
